@@ -12,7 +12,7 @@ is required.
 4. Locate the `If.goxlr` block, after it, insert:
 
 ```
-If.beacn {
+If.beacn-mic {
 	Condition {
 		Type String
 		Haystack "${CardComponents}"
