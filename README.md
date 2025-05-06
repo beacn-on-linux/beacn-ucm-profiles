@@ -23,9 +23,9 @@ If.beacn-mic {
 
 If.beacn-studio {
 	Condition {
-		Type String
-		Haystack "${CardComponents}"
-		Needle "USB33ae:0003"
+		Type RegexMatch
+		String "${CardComponents}"
+		Regex "USB33ae:[04]003"
 	}
 	True.Define.ProfileName "Beacn/Beacn-Studio"
 }
