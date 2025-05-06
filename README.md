@@ -1,7 +1,7 @@
 # ALSA UCM Support for Beacn Hardware
 
 This repository primarily exists for manual installation of the profiles. The intent is to eventually
-push these files upstream into the ALSA UCM project once complete and varified, for now manual installation
+push these files upstream into the ALSA UCM project once complete and verified, for now manual installation
 is required.
 
 ## Installation
@@ -35,7 +35,7 @@ Then restart your PC, and your Beacn device should appear correctly.
 
 
 ## Notes:
-The Beacn Studio comes with three profiles, 'Basic', 'Link'.
+The Beacn Studio comes with two profiles, 'Basic', 'Link'.
 
 The basic profile contains just the headphones and microphone, and the 'Link' profile contains
 all the PC2 Link Channels. This is so if you're not using them, you can disable them easily.
