@@ -1,8 +1,11 @@
 # ALSA UCM Support for Beacn Hardware
 
-This repository primarily exists for manual installation of the profiles. The intent is to eventually
-push these files upstream into the ALSA UCM project once complete and verified, for now manual installation
-is required.
+These files have been merged into `alsa-ucm-conf`, and will be included in alsa-lib 1.2.15. This 
+repository is being maintained until it's a commonly distributed version.
+
+## ALSA UCM Files for Beacn hardware
+This repository is for manual installation of the UCM profiles for Beacn devices. It will correctly
+split and present channels as they are on Windows, including the Beacn Link channels if we are USB2.
 
 ## Installation
 
