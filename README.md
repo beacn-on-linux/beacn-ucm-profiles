@@ -12,6 +12,7 @@ If you are running arch, or a distribution with access to `AUR` you can simply i
 `alsa-ucm-conf-git` package which contains the latest changes from upstream, and includes 
 Beacn support.
 
+Otherwise, perform the following:
 
 1. Create `/usr/share/alsa/ucm2/USB-Audio/Beacn/`
 2. Extract the contents of this repository into that folder
