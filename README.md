@@ -12,7 +12,7 @@ If you are running arch, or a distribution with access to `AUR` you can simply i
 `alsa-ucm-conf-git` package which contains the latest changes from upstream, and includes 
 Beacn support.
 
-If you are running Ubuntu 22.04, Linux Mint, or a distribution running `alsa-ucm-conf` version 1.2.10
+If you are running Ubuntu 24.04, Linux Mint, or a distribution running `alsa-ucm-conf` version 1.2.10
 you'll need to apply [this change](https://github.com/GoXLR-on-Linux/goxlr-utility/issues/221) to the
 config files for the following to work.
 
