@@ -8,10 +8,6 @@ This repository is for manual installation of the UCM profiles for Beacn devices
 split and present channels as they are on Windows, including the Beacn Link channels if we are USB2.
 
 ## Installation
-If you are running arch, or a distribution with access to `AUR` you can simply install the 
-`alsa-ucm-conf-git` package which contains the latest changes from upstream, and includes 
-Beacn support.
-
 If you are running an up-to-date Fedora 42 installation, these files have been backported and are available
 out of the box, so nothing additional is needed.
 
