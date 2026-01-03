@@ -11,6 +11,9 @@ split and present channels as they are on Windows, including the Beacn Link chan
 If you are running an up-to-date Fedora 42 installation, these files have been backported and are available
 out of the box, so nothing additional is needed.
 
+If you are running an up-to-date Arch installation, these files are provided out of the box as part 
+of `alsa-ucm-conf` 1.2.15.1, so nothing additional is needed.
+
 If you are running Ubuntu 24.04, Linux Mint, or a distribution running `alsa-ucm-conf` version 1.2.10
 you'll need to apply [this change](https://github.com/GoXLR-on-Linux/goxlr-utility/issues/221) to the
 config files for the following to work.
